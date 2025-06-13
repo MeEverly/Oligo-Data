@@ -119,5 +119,5 @@ line_types2 <- c(
   "df2.4" = "solid")
 plot2 <- plot_data(data2, legend_names2, line_colors2, line_types2)
 
-################################## Arrange Final Graphs ###############################################################
+#### ARRANGE PLOTS ####
 grid.arrange(plot1, plot2, ncol = 2)
