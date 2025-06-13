@@ -31,7 +31,7 @@ ORCID: https://orcid.org/0009-0003-5689-0700
 
 ## Citation
 Please credit the author and refer to this repository when using or adapting the code with the following citation:
-Michaela E. Everly. (2025). 
+Michaela E. Everly. (2025). MeEverly/Oligo-Data: Oligo-Data-Visualization-With-R (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15660406
 
 ## License
 This project is licensed under the MIT License (https://opensource.org/licenses/MIT). See the LICENSE file for details.
